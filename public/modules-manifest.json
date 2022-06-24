@@ -1,0 +1,14 @@
+{
+  "modules": [
+    {
+      "path": "restaurants",
+      "host": "http://localhost:3001",
+      "scope": "Restaurants"
+    },
+    {
+      "path": "about",
+      "host": "http://localhost:3002",
+      "scope": "About"
+    }
+  ]
+}
